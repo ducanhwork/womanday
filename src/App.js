@@ -219,7 +219,7 @@ function App() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        Chúc mừng ngày 8/3, người con gái xinh đẹp nhất vũ trụ!
+        Chúc mừng ngày 8/3, người con gái thơm nhất vũ trụ!
       </Title>
 
       <PuppyContainer
